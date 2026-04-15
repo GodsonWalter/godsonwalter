@@ -28,10 +28,11 @@ I am committed to helping businesses, schools, and organizations grow through te
 
 ---
 
+<!--
 ## 📂 Featured Projects
 
 -- comming soon
-
+-->
 ---
 
 ## 🌍 Connect With Me

@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there 👋 I'm Walter Godson Nazike
 
-<!--
-**GodsonWalter/godsonwalter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | Web Developer | Tech Entrepreneur  
+<!--💼 Founder of WALTECH ICT SERVICES AND CONSULTANT LTD -->
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am a passionate Software Engineer and Web Developer focused on building modern, scalable, and user-friendly digital solutions.
+
+I specialize in creating:
+- 🌐 Modern websites & web applications  
+- 🧩 Business software solutions  
+- 🏫 School management systems  
+- 📊 Custom enterprise systems  
+
+I am committed to helping businesses, schools, and organizations grow through technology.
+
+---
+
+## 📌 Current Focus
+
+- 🚀 Building scalable web applications
+- 🧠 Improving backend architecture skills
+- ☁️ Exploring cloud deployment (AWS / VPS)
+- 🤝 Open to collaborations & freelance projects
+
+---
+
+## 📂 Featured Projects
+
+-- comming soon
+
+---
+
+## 🌍 Connect With Me
+
+- 💼 GitHub: https://github.com/waltechICT  
+- 🌐 Company: WALTECH ICT SERVICES AND CONSULTANT LTD  
+- 📧 Email: waltechict@gmail.com
+
+---
+
+## ⚡ Fun Quote
+
+> “Technology is best when it brings people together and solves real problems.”
+
+---
+
+⭐️ *Thanks for visiting my profile! Let's build something amazing together.*

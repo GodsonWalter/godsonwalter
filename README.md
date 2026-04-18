@@ -37,9 +37,10 @@ I am committed to helping businesses, schools, and organizations grow through te
 
 ## 🌍 Connect With Me
 
-- 💼 GitHub: https://github.com/waltechICT  
-- 🌐 Company: WALTECH ICT SERVICES AND CONSULTANT LTD  
-- 📧 Email: waltechict@gmail.com
+- 💼 GitHub: https://github.com/GodsonWalter  
+- 🌐 Company: WALTECH ICT SERVICES AND CONSULTANT LTD
+- 📱 Phone: +234 813 610 9828 
+- 📧 Email: walter.godson.nazike@gmail.com
 
 ---
 
